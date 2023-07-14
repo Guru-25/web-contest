@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "CNAME": true,
+        "README.md": true,
+        "LICENSE": true
+    }
+}
